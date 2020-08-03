@@ -1,4 +1,4 @@
-# IBM Data Science - Professional Certification Course Work
+# IBM Data Science - Professional Certification Capstone
 This is a repository for my IBM Data Science Certification Capstone
 
 Certification include courses: 
